@@ -1,3 +1,4 @@
 window.onload = function() {
-  console.log("Everything is working!");
+    var random = Math.random()
+  console.log("");
 };
