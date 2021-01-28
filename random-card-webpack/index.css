@@ -1,13 +1,13 @@
-body{ background: green;}
+body{ background: green; overflow-y: hidden;}
 .playingCards .card {
     display: inline-block;
     width: 22em;
     height: 32em;
     border: 1px solid #666;
-    border-radius: .3em;
-    -moz-border-radius: .3em;
-    -webkit-border-radius: .3em;
-    -khtml-border-radius: .3em;
+    border-radius: .30em;
+    -moz-border-radius: .5em;
+    -webkit-border-radius: .5em;
+    -khtml-border-radius: .5em;
     padding: .25em;
     margin: 0em 0em;
     text-align: center;
